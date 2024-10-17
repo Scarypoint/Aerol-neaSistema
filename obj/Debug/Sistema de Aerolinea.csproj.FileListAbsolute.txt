@@ -1,0 +1,32 @@
+C:\Users\miakh\source\repos\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.exe.config
+C:\Users\miakh\source\repos\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.exe
+C:\Users\miakh\source\repos\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.pdb
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.AssemblyReference.cache
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.SuggestedBindingRedirects.cache
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Properties.Resources.resources
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Calificaciones.RegistrarAvion.resources
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.GenerateResource.cache
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.exe
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.pdb
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Calificaciones.Aviones.resources
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.EliminarAvion1.resources
+C:\Users\miakh\source\repos\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.ActualizarAvionn.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.AssemblyReference.cache
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.SuggestedBindingRedirects.cache
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Calificaciones.Aviones.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Properties.Resources.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Calificaciones.RegistrarAvion.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.GenerateResource.cache
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.exe
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema de Aerolinea.pdb
+C:\Users\miakh\Downloads\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.exe.config
+C:\Users\miakh\Downloads\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.exe
+C:\Users\miakh\Downloads\Sistema de Aerolinea\bin\Debug\Sistema de Aerolinea.pdb
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.EliminarAvion1.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Pasajeros.RP.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Menu.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Vuelo.RegistrarVuelos.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Reservar.RVS.resources
+C:\Users\miakh\Downloads\Sistema de Aerolinea\obj\Debug\Sistema_de_Aerolinea.Pasajeros.EliminarP.resources
